@@ -172,21 +172,21 @@
 <hr>
     <h2 style="background-color: green;color: #fff;text-align:center">Some additional Api are </h2>
     <hr>
-     <p>Get Claim by ID : <span style="background-color: blue; text-align: center;padding: 3px; border-radius: 2px;">Get</span> api/claims/{id}; (admin and client both)</p>
-     <p>Delete Claim by ID : <span style="background-color: red; text-align: center;padding: 3px; border-radius: 2px;">DELETE</span>  api/claims/{id}; (admin access)
+     <p>Get Claim by ID : <span style="background-color: blue; text-align: center;padding: 3px; border-radius: 2px;">Get</span> <code>api/claims/{id}</code>; (admin and client both)</p>
+     <p>Delete Claim by ID : <span style="background-color: red; text-align: center;padding: 3px; border-radius: 2px;">DELETE</span>  <code>api/claims/{id}</code>; (admin access)
     </p>
     <hr>
-     <p>Get all Clients : <span style="background-color: blue; text-align: center;padding: 3px; border-radius: 2px;">GET</span> api/clients/; (admin access)</p>
-     <p>Get client by ID : <span style="background-color: blue; text-align: center;padding: 3px; border-radius: 2px;">GET</span> api/clients/{id} (admin and client both)</p>
-     <p>Upadte Clientd By ID : <span style="background-color:orange; text-align: center;padding: 3px; border-radius: 2px;">PUT</span> api/clients/id (admin and client both)</p>
-     <p>Delete Clients By ID : <span style="background-color: red; text-align: center;padding: 3px; border-radius: 2px;">DELETE</span> api/clients/{id} (currently only admin)</p>
+     <p>Get all Clients : <span style="background-color: blue; text-align: center;padding: 3px; border-radius: 2px;">GET</span><code>api/clients/</code>; (admin access)</p>
+     <p>Get client by ID : <span style="background-color: blue; text-align: center;padding: 3px; border-radius: 2px;">GET</span><code> api/clients/{id}</code> (admin and client both)</p>
+     <p>Upadte Clientd By ID : <span style="background-color:orange; text-align: center;padding: 3px; border-radius: 2px;">PUT</span> <code>api/clients/id</code> (admin and client both)</p>
+     <p>Delete Clients By ID : <span style="background-color: red; text-align: center;padding: 3px; border-radius: 2px;">DELETE</span> <code>api/clients/{id}</code> (currently only admin)</p>
      <hr>
-     <p>Delete policy By ID : <span style="background-color: red; text-align: center;padding: 3px; border-radius: 2px;">DELETE</span> api/policies/{id} (only admin access)</p>
-     <p>Update policy by ID : <span style="background-color: orange; text-align: center;padding: 3px; border-radius: 2px;">PUT</span> api/policies/{id} (only admin access)</p>
-     <p>Get All policy : <span style="background-color: blue; text-align: center;padding: 3px; border-radius: 2px;">GET</span> api/policies/  (admin and clients both)</p>
+     <p>Delete policy By ID : <span style="background-color: red; text-align: center;padding: 3px; border-radius: 2px;">DELETE</span> <code>api/policies/{id}</code> (only admin access)</p>
+     <p>Update policy by ID : <span style="background-color: orange; text-align: center;padding: 3px; border-radius: 2px;">PUT</span> <code>api/policies/{id}</code> (only admin access)</p>
+     <p>Get All policy : <span style="background-color: blue; text-align: center;padding: 3px; border-radius: 2px;">GET</span> <code>api/policies/</code>  (admin and clients both)</p>
      <hr>
-     <p>Admin logout : <span style="background-color: green; text-align: center;padding: 3px; border-radius: 2px;">POST</span> api/admin/logout</p>
-     <p>Client logout : <span style="background-color: green; text-align: center;padding: 3px; border-radius: 2px;">POST</span> api/clients/logout</p>
+     <p>Admin logout : <span style="background-color: green; text-align: center;padding: 3px; border-radius: 2px;">POST</span> <code>api/admin/logout</code></p>
+     <p>Client logout : <span style="background-color: green; text-align: center;padding: 3px; border-radius: 2px;">POST</span> <code>api/clients/logout</code></p>
      
 
 <hr>
