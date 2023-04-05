@@ -14,6 +14,7 @@ Its an Insurance Management System. This system allows for the creation and mana
 
  
 # Steps  to  Setup  the  Application : 
-1.	Open src >main>resources>application.properties<hr style="height:2px;border-width:0;color:blue;background-color:blue">
+<p>1.	Open src >main>resources>application.properties<p>
+ <hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ![appliacatioProperties](https://user-images.githubusercontent.com/51885478/230087930-745693d0-5946-4a1b-9366-d1e00544c8f0.PNG)
