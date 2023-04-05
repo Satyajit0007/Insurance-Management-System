@@ -27,3 +27,13 @@ Its an Insurance Management System. This system allows for the creation and mana
 
 
 ![configureDB](https://user-images.githubusercontent.com/51885478/230093271-9b960a8c-9f69-4eb1-aa65-c5b102b62459.PNG)
+
+     
+     3.	Create MySql database  : 
+     <hr>
+         <li>	Create mySql database (database name : IMTDB {suggested})
+         <li>	use MySql command to create database
+          <ul>	example : 
+              <li> create database IMTDB;
+              <li> use IMTDB;</li>
+          </ul>
