@@ -15,6 +15,11 @@ Its an Insurance Management System. This system allows for the creation and mana
  
 # Steps  to  Setup  the  Application : 
 <p>1.	Open src >main>resources>application.properties<p>
- </hr style="height:2px;border-width:0;color:blue;background-color:blue">
+ <hr style="height:2px;border-width:0;color:blue;background-color:blue">
 
 ![appliacatioProperties](https://user-images.githubusercontent.com/51885478/230089331-7e938c17-b2b4-415b-afc1-ea59afa53c96.PNG)
+
+ 2.	Configure your mySql database
+    <li>change server.port
+    <li>put your database.username
+    <li>put your database.password</li>
