@@ -65,6 +65,8 @@
   <li><link><code>http://localhost:8078/api/admin</code> (Open it on Postman)</link></li>
   <h2><strong><em>NOTE: Please change the port number accordingly</em></strong></h2>
   <hr>
+  
+  <h2 style="background-color: green;color: #fff;text-align:center">Follow the bellow steps one by one :</h2>  
   <hr>
  <h3 style="text-decoration: underline; color:yellow">1.	Admin Registration ( <span style="background-color: green; text-align: center;padding: 3px; border-radius: 2px;">POST</span> /api/admin/)</h3>
      <hr>
