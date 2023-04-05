@@ -171,6 +171,14 @@
         <li>The endpoint should validate the input and update the claim's database record if the input is valid.</li>
     </ul>
 <hr>
+	<hr>
+<h1 style="background-color: green;color: #fff;text-align:center">Flow of the Application </h1>
+<hr>
+	
+![InsurenceManagementFlowchart_page-0001 (1)](https://user-images.githubusercontent.com/51885478/230147146-5f3e8464-9147-44fd-b56b-483f2ed56743.jpg)
+
+<br>
+<hr>
     <h2 style="background-color: green;color: #fff;text-align:center">Some additional Api are </h2>
     <hr>
      <p>Get Claim by ID : <span style="background-color: blue; text-align: center;padding: 3px; border-radius: 2px;">Get</span> <code>api/claims/{id}</code>; (admin and client both)</p>
