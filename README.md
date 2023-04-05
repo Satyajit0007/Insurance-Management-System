@@ -57,7 +57,7 @@
  
 <hr>  
 <h2 style="background-color: green;color: #fff;text-align:center">Steps to Execute Api/ Application </h2>  
-<h1>Two way to execute all Api :</h1>
+<h1>How to execute all Api :</h1>
   <h3>Open one of the below link:</h3>
 	
   <li><link><code>http://localhost:8078/swagger-ui/index.html</code> 
