@@ -54,8 +54,18 @@
 <h3  style="text-decoration: underline; color:yellow">4. Run The Application.</h3>
 <hr>
      
-<h2 style="background-color: green;color: #fff;text-align:center">Steps to Execute Api/ Application </h2>  
+ 
 <hr>  
+<h2 style="background-color: green;color: #fff;text-align:center">Steps to Execute Api/ Application </h2>  
+<h1>Two way to execute all Api :</h1>
+  <h3>Open one of the below link:</h3>
+	
+  <li><link>http://localhost:8078/swagger-ui/index.html 
+   (Suggested)</link></li>
+  <li><link>http://localhost:8078/api/admin (Open it on Postman)</link></li>
+  <h2><strong><em>NOTE: Please change the port number accordingly</em></strong></h2>
+  <hr>
+  <hr>
  <h3 style="text-decoration: underline; color:yellow">1.	Admin Registration ( <span style="background-color: green; text-align: center;padding: 3px; border-radius: 2px;">POST</span> /api/admin/)</h3>
      <hr>
       <li>This endpoint allows the creation of a new administrator account.
@@ -176,7 +186,13 @@
      <p>Admin logout : <span style="background-color: green; text-align: center;padding: 3px; border-radius: 2px;">POST</span> api/admin/logout</p>
      <p>Client logout : <span style="background-color: green; text-align: center;padding: 3px; border-radius: 2px;">POST</span> api/clients/logout</p>
      
-   
+
+<hr>
+    <h2 style="background-color: green;color: #fff;text-align:center">Database Schema </h2>
+    <hr>
+
+   ![Untitled (3)](https://user-images.githubusercontent.com/51885478/230126695-c8e74376-3cbf-46f7-9396-979e8dfb4df6.png)
+
 
 </body>
 </html>
