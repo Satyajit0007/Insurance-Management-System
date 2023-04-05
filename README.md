@@ -193,6 +193,39 @@
 
    ![Untitled (3)](https://user-images.githubusercontent.com/51885478/230126695-c8e74376-3cbf-46f7-9396-979e8dfb4df6.png)
 
+<h1>Insurance Management System Features</h1>
+	<h2>Client Management:</h2>
+	<ul>
+		<li>View all clients: <code>/api/clients</code></li>
+		<li>View a specific client: <code>/api/clients/{id}</code></li>
+		<li>Create a new client: <code>/api/clients</code></li>
+		<li>Update a client: <code>/api/clients/{id}</code></li>
+		<li>Delete a client: <code>/api/clients/{id}</code></li>
+	</ul>
+	<h2>Insurance Policy Management:</h2>
+	<ul>
+		<li>View all insurance policies: <code>/api/policies</code></li>
+		<li>View a specific insurance policy: <code>/api/policies/{id}</code></li>
+		<li>Create a new insurance policy: <code>/api/policies</code></li>
+		<li>Update an insurance policy: <code>/api/policies/{id}</code></li>
+		<li>Delete an insurance policy: <code>/api/policies/{id}</code></li>
+	</ul>
+	<h2>Claim Management:</h2>
+	<ul>
+		<li>View all claims: <code>/api/claims</code></li>
+		<li>View a specific claim: <code>/api/claims/{id}</code></li>
+		<li>Create a new claim: <code>/api/claims</code></li>
+		<li>Update a claim: <code>/api/claims/{id}</code></li>
+		<li>Delete a claim: <code>/api/claims/{id}</code></li>
+	</ul>
+	<h2>Additional Features:</h2>
+	<ul>
+		<li>Unique key concept for authorized access</li>
+		<li>Data validation for accurate data entry</li>
+		<li>Error handling for graceful exception handling</li>
+		<li>Integration with other systems or APIs for comprehensive solutions</li>
+	</ul>
+	<p>The Insurance Management System provides a comprehensive solution for managing insurance-related data and operations. With a robust set of APIs for managing clients, insurance policies, and claims, the system can streamline workflows, improve efficiency, and reduce errors.</p>
 
 </body>
 </html>
