@@ -50,3 +50,8 @@ Its an Insurance Management System. This system allows for the creation and mana
 <hr>
 <br>    
  <p style="text-decoration:underline;color:green;">1.	Admin Registration (POST  : /api/admin/)</p> 
+     <hr>
+      <li>This endpoint allows the creation of a new administrator account.
+      <li>The endpoint expects a JSON payload in the request body containing the administrator's details, such as name, email, and password.
+      <li>The endpoint should validate the input and create a new administrator account in the database if the input is valid.</li>
+
