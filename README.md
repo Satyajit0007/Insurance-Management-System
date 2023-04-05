@@ -49,4 +49,4 @@ Its an Insurance Management System. This system allows for the creation and mana
  # Steps to Execute Api/ Application :  
 <hr>
 <br>    
- <u style="text-decoration:underline;">1.	Admin Registration (POST  : /api/admin/)</u> 
+ <p style="text-decoration:underline;color:green;">1.	Admin Registration (POST  : /api/admin/)</p> 
