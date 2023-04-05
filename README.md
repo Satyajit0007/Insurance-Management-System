@@ -14,3 +14,4 @@ Its an Insurance Management System. This system allows for the creation and mana
 
  
 # Steps  to  Setup  the  Application : 
+1.	Open src >main>resources>application.properties<hr>
