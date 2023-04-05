@@ -11,3 +11,6 @@ Its an Insurance Management System. This system allows for the creation and mana
  <li>Run the command "mvn clean install" to build the application.
  <li>Once the build is successful, run the command "mvn spring-boot:run" to start the application.
  <li>The application should now be up and running on your local machine.</li>
+
+ 
+# Steps  to  Setup  the  Application : 
