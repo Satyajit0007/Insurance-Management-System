@@ -2,7 +2,7 @@
 Its an Insurance Management System. This system allows for the creation and management of client data, insurance policies, and claims. The system provides a set of APIs that enable users to perform CRUD operations on each of these entities, allowing clients to be created and updated, policies to be managed, and claims to be filed and processed. This System provides a comprehensive solution for managing insurance-related data and operations. By providing a set of APIs for managing client data, insurance policies, and claims, the system can streamline workflows, improve efficiency, and reduce errors.
 
 
-<h2>Prerequisites:<h2>
+<h3>Prerequisites:<h3>
  </hr>
  <li>JDK 8 or higher installed
  <li>Maven installed
