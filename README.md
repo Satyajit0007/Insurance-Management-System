@@ -19,8 +19,8 @@ Its an Insurance Management System. This system allows for the creation and mana
 
 ![appliacatioProperties](https://user-images.githubusercontent.com/51885478/230089331-7e938c17-b2b4-415b-afc1-ea59afa53c96.PNG)
 
- 2.	Configure your mySql database
- </hr>
+2.	Configure your mySql database
+ <hr>
     <li>	change server.port
     <li>put your database.username
     <li>put your database.password
