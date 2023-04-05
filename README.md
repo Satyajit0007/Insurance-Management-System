@@ -25,3 +25,4 @@ Its an Insurance Management System. This system allows for the creation and mana
     <li>put your database.username
     <li>put your database.password
 
+![databasewConfigure](https://user-images.githubusercontent.com/51885478/230090637-c0aff7b6-ecf1-4083-be8f-36f4dda60cf6.PNG)
