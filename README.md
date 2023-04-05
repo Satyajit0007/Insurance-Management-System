@@ -38,3 +38,12 @@ Its an Insurance Management System. This system allows for the creation and mana
               create database IMTDB;
               use IMTDB;
           
+    <br>
+4.	Run The Application .
+<hr>
+
+<br>
+     
+ # Step to Execute Api/ Application :  
+<hr>
+
