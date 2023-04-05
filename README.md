@@ -32,9 +32,9 @@ Its an Insurance Management System. This system allows for the creation and mana
 3.	Create MySql database  : 
  <hr>
      
-         <li>Create mySql database (database name : IMTDB {suggested})
-         <li>use MySql command to create database
-         <ul>	example : 
-              <li>create database IMTDB;
-              <li>use IMTDB;</li>
-          </ul>
+         Create mySql database (database name : IMTDB {suggested})
+         Use MySql command to create database
+         	example : 
+              create database IMTDB;
+              use IMTDB;
+          
