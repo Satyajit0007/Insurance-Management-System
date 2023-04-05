@@ -48,5 +48,5 @@ Its an Insurance Management System. This system allows for the creation and mana
      
  # Steps to Execute Api/ Application :  
 <hr>
-
-     <p style="text-decoration:underline;">1.	Admin Registration (POST  : /api/admin/)</p> 
+<br>    
+ <p style="text-decoration:underline;">1.	Admin Registration (POST  : /api/admin/)</p> 
