@@ -3,10 +3,10 @@ Its an Insurance Management System. This system allows for the creation and mana
 
 
 <h3>Prerequisites:<h3>
- <li>JDK 8 or higher installed</li>
- <li>Maven installed</li>
- <li>Clone the repository containing your Spring Boot application code.<li>
- <li>Navigate to the root folder of the project in the terminal or command prompt.<li>
- <li>Run the command "mvn clean install" to build the application.<li>
- <li>Once the build is successful, run the command "mvn spring-boot:run" to start the application.<li>
- <li>The application should now be up and running on your local machine.<li>
+ <li>JDK 8 or higher installed
+ <li>Maven installed
+ <li>Clone the repository containing your Spring Boot application code.
+ <li>Navigate to the root folder of the project in the terminal or command prompt.
+ <li>Run the command "mvn clean install" to build the application.
+ <li>Once the build is successful, run the command "mvn spring-boot:run" to start the application.
+ <li>The application should now be up and running on your local machine.
