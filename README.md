@@ -60,9 +60,9 @@
 <h1>Two way to execute all Api :</h1>
   <h3>Open one of the below link:</h3>
 	
-  <li><link><code>http://localhost:8078/swagger-ui/index.html<code> 
+  <li><link><code>http://localhost:8078/swagger-ui/index.html</code> 
    (Suggested)</link></li>
-  <li><link><code>http://localhost:8078/api/admin<code> (Open it on Postman)</link></li>
+  <li><link><code>http://localhost:8078/api/admin</code> (Open it on Postman)</link></li>
   <h2><strong><em>NOTE: Please change the port number accordingly</em></strong></h2>
   <hr>
   <hr>
