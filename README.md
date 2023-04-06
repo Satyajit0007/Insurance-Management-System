@@ -62,7 +62,7 @@
 	
  [Swagger (Suggested) : http://localhost:8078/swagger-ui/index.html](http://localhost:8078/swagger-ui/index.html)
  <br>
- [Postman : http://localhost:8078/swagger-ui/index.html](http://localhost:8078/admin)
+ [Postman : http://localhost:8078/api/admin](http://localhost:8078/api/admin)
 
   <h2><strong><em>NOTE: Please   change the port number accordingly and run the application first</em></strong></h2>
   <hr>
